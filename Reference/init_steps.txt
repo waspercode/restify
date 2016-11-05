@@ -1,0 +1,11 @@
+Go to the required directory.
+Give the following commands:
+1. git init
+2. npm init --y
+3. npm install restify --save
+
+
+touch server.js
+touch products.js
+
+brackets .
